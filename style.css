@@ -1,0 +1,31 @@
+*{
+width: auto;
+box-sizing: border-box;
+margin: 0 0;
+padiing: 0
+
+}
+
+.banner {
+
+   
+    witdth: 100%
+heigth: 441px;
+display; flex
+
+}
+.menuprincipal {
+background-color: #5E9C77;
+witdth: auto
+heigth: 176px;
+display; flex
+justify-content: space-around;
+
+
+
+}
+
+
+
+
+
